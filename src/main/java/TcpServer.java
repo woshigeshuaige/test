@@ -21,11 +21,9 @@ class  TcpServer
 		s.close();
 		ss1.close();
 		
-<<<<<<< HEAD
 
-=======
 		System.out.println("hello");
->>>>>>> branch 'master' of https://github.com/woshigeshuaige/test.git
+
 		
 	}
 }
