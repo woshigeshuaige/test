@@ -22,17 +22,6 @@ class  TcpServer
 		ss1.close();
 
 
-		System.out.println(3);
-
-		System.out.println();
-
-		System.out.println(5);
-
-
-		System.out.println(4);
-
-		System.out.println("1");
-
 		
 	}
 }
