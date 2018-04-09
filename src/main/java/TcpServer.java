@@ -22,7 +22,6 @@ class  TcpServer
 		ss1.close();
 
 
-<<<<<<< HEAD
 		System.out.println(3);
 
 		System.out.println();
@@ -35,8 +34,5 @@ class  TcpServer
 		System.out.println("1");
 
 		System.out.println(true);
-=======
-		
->>>>>>> branch 'master' of https://github.com/woshigeshuaige/test.git
 	}
 }
