@@ -21,7 +21,7 @@ class  TcpServer
 		s.close();
 		ss1.close();
 		
-
+		int a=1;
 		System.out.println("hello");
 
 		
