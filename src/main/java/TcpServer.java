@@ -20,6 +20,7 @@ class  TcpServer
 		
 		s.close();
 		ss1.close();
+		System.out.println(2);
 		
 	}
 }
