@@ -20,10 +20,6 @@ class  TcpServer
 		
 		s.close();
 		ss1.close();
-		int c;
-
-		System.out.println("hello");
-
 		
 	}
 }
