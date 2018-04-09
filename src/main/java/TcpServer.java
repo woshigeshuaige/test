@@ -23,7 +23,7 @@ class  TcpServer
 
 		System.out.println(3);
 
-		
+		System.out.println();
 		System.out.println("1");
 
 		
