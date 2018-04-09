@@ -21,10 +21,7 @@ class  TcpServer
 		s.close();
 		ss1.close();
 		
-
-		System.out.println("world");
-
-		System.out.println("hello");
+		System.out.println("你好");
 
 		
 	}
